@@ -1,0 +1,49 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+.featured-project {
+    color: orange;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+#main-name {
+    color: purple;
+}
+
+.links-container {
+    display: flex;
+    gap: 20px;
+    background-color: lightyellow;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 600px) {
+    .links-container {
+        flex-direction: column;
+    }
+    h1 {
+        font-size: 28px;
+    }
+}
+
+a:hover {
+    color: red;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
