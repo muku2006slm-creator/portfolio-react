@@ -19,6 +19,15 @@ function App() {
     <li>Python</li>
     <li>Embedded C</li>
     <li>Assembly</li>
+    <li>JavaScript</li>
+</ul>
+
+<h3>Web</h3>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>React</li>
+    <li>Django (basics)</li>
 </ul>
 
 <h3>Domains</h3>
@@ -34,7 +43,10 @@ function App() {
     <li>pandas</li>
     <li>numpy</li>
     <li>Streamlit</li>
+    <li>Vite</li>
+    <li>Netlify</li>
     <li>Git/GitHub</li>
+    <li>VS Code</li>
 </ul>
 
 <h3>Databases</h3>
